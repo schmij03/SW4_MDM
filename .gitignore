@@ -1,0 +1,5 @@
+.venv
+venv/
+.__pycache__
+__pycache__/
+vgg16-12-int8.onnx
